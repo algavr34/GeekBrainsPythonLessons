@@ -1,4 +1,3 @@
-print("Задание 4")
 number = int(input("Введите целое число: "))
 max = number%10
 number = number//10
