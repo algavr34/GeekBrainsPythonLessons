@@ -1,4 +1,3 @@
-print("Задание 5")
 proceeds = int(input("Введите размер вашей выручки: "))
 costs = int(input("Введите размер ваших издержек: "))
 if proceeds <= costs:
