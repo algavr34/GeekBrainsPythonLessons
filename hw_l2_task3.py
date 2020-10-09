@@ -1,4 +1,3 @@
-#задача через list
 number = int(input("Write number of month from 1 to 12: "))
 while number not in (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12):
     number = int(input("You're wrong! Write number of month from 1 to 12: "))
