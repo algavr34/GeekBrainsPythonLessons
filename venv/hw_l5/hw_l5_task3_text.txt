@@ -1,0 +1,5 @@
+Ivanov 19000
+Petrov 40000
+Iam 5000
+SynMaminoyPodrugi 80000
+ChuvakNaOtkatah 200000
