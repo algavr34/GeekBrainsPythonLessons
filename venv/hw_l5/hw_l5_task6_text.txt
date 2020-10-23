@@ -1,0 +1,5 @@
+Drawing: 20(l), 10(sem)
+Informatics: 10(l) - 10(lab)
+Russian: 15(l)
+Sofism: 25(l)
+Sports: 30(les)
